@@ -2,10 +2,10 @@
 
 ## Identitas
 
-- **Nama:** [Isi nama]
-- **NIM/NISN:** [Isi nomor identitas]
-- **Kelas:** [Isi kelas]
-- **Mata kuliah:** [Isi nama mata kuliah, jika diperlukan]
+- **Nama:** Gabriel Mesly Managam Siahaan
+- **NRP:** 5025251096 
+- **Kelas:** B
+- **Mata kuliah:** Pweb
 
 ## 1. Nama Proyek
 
@@ -81,25 +81,32 @@ Letakkan screenshot yang kamu ambil secara manual di folder **`screenshots/`** p
 
 ### A. Halaman Utama
 
-![Screenshot halaman utama PPDB Smart](screenshots/01-beranda.png)
+<img width="2846" height="1466" alt="image" src="https://github.com/user-attachments/assets/f8a1730f-3937-445f-a6f7-382efa534df1" />
+<img width="2840" height="1448" alt="image" src="https://github.com/user-attachments/assets/045a4414-606f-4470-9fd4-03bc6439b032" />
+<img width="2846" height="1304" alt="image" src="https://github.com/user-attachments/assets/99890d80-5259-47d4-b7a4-89b1438d848e" />
+<img width="2850" height="1476" alt="image" src="https://github.com/user-attachments/assets/83e25278-5474-43b7-a3c3-57b21ed66b99" />
+
 
 Menampilkan navigasi, informasi periode dan jalur pendaftaran, persyaratan, serta ringkasan alur pendaftaran.
 
 ### B. Halaman Masuk dan Registrasi
 
-![Screenshot halaman masuk dan registrasi](screenshots/02-autentikasi.png)
+<img width="2840" height="1364" alt="image" src="https://github.com/user-attachments/assets/a5bce3b6-5d51-41df-ac9d-d69c99ea6eea" />
 
 Halaman autentikasi menyediakan formulir masuk dan pembuatan akun calon siswa.
 
 ### C. Dashboard dan Formulir Calon Siswa
 
+Masuk
 ![Screenshot dashboard dan formulir calon siswa](screenshots/03-dashboard-siswa.png)
+Registrasi
+<img width="2848" height="1458" alt="image" src="https://github.com/user-attachments/assets/f73c9959-1354-48da-89ec-fcff596b2846" />
 
 Menampilkan data pendaftaran, formulir calon siswa, unggah dokumen, notifikasi, serta status dan hasil seleksi.
 
 ### D. Dashboard Admin
 
-![Screenshot dashboard admin](screenshots/04-dashboard-admin.png)
+<img width="2846" height="1434" alt="image" src="https://github.com/user-attachments/assets/4ac68181-51b2-43b7-9c1a-dad0dcec0732" />
 
 Menampilkan ringkasan pendaftar dan pengelolaan periode, kuota, dokumen, status pendaftaran, serta hasil seleksi.
 
